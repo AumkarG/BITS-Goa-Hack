@@ -11,6 +11,7 @@ The garbage collector is notified via a flutter app and a route optimization alg
 
 ## ROLE IN THE TEAM :
 Backend development, integration of route optimization algorithm.
+Pitching, strategizing on marketing the product
 
 ## Core idea and Concept credit to [Shloka Shah](https://github.com/shlokashah) and [Parth Jardosh](https://github.com/pmj9911)
 
