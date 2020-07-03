@@ -17,6 +17,6 @@ Pitching, strategizing on marketing the product
 
 [Shloka Shah](https://github.com/shlokashah) and [Parth Jardosh](https://github.com/pmj9911) :  Core idea and Concept
 
-Aditi Kandoi : Backend development, pitching and documentation :
+[Aditi Kandoi](https://github.com/aditikandoi) : Backend development, pitching and documentation :
 
 The complete code can be accessed [here](https://github.com/shlokashah/SEGRO)
