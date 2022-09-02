@@ -9,10 +9,6 @@ The bin notifies the backend on being filled, which is hosted using Django
 The garbage collector is notified via a flutter app and a route optimization algorithm directs him to the various filled bins, after which the garbage is disposed.
 
 
-## ROLE IN THE TEAM :
-Backend development, integration of route optimization algorithm.
-Pitching, strategizing on marketing the product
-
 ## Co-Contributors :
 
 [Shloka Shah](https://github.com/shlokashah) 
